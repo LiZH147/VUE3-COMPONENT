@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnDocs/初始化组件库环境.md",
+                "file": "learnDocs/实现Icon组件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learnDocs/初始化组件库环境.md",
+                "file": "learnDocs/实现Icon组件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learnDocs/初始化组件库环境.md",
+                "file": "learnDocs/实现Icon组件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnDocs/初始化组件库环境.md"
+                "file": "learnDocs/实现Icon组件.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,13 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a2a44cd377468fbe",
+  "active": "279f90a18a914b2a",
   "lastOpenFiles": [
+    "learnDocs/通过JS实现BEM规范.md",
+    "learnDocs/实现Icon组件.md",
+    "learnDocs/初始化组件库环境.md",
     "learnDocs/实现play环境.md",
     "learnDocs/Pasted image 20241104234128.png",
     "learnDocs/Pasted image 20241104232741.png",
-    "learnDocs/通过JS实现BEM规范.md",
-    "learnDocs/初始化组件库环境.md",
     "learnDocs",
     "学习记录.md",
     "未命名"
