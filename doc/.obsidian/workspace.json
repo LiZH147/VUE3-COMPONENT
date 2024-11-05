@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddab8529ba9082ce",
+            "id": "8f285eb7b5702160",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习记录.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0c83eae897dc79f8",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "学习记录.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +138,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ddab8529ba9082ce",
+  "active": "8f285eb7b5702160",
   "lastOpenFiles": [
+    "learnDocs/实现Icon组件.md",
     "学习记录.md",
+    "learnDocs/通过JS实现BEM规范.md",
+    "learnDocs/初始化组件库环境.md",
+    "learnDocs/实现play环境.md",
+    "learnDocs/Pasted image 20241104234128.png",
+    "learnDocs/Pasted image 20241104232741.png",
+    "learnDocs",
     "未命名"
   ]
 }
